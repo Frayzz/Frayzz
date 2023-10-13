@@ -4,8 +4,6 @@
 
 </div>
 
-<img src="https://i.pinimg.com/originals/5e/20/34/5e2034f036dea509229fe13cfd19c327.gif" width="100%">
-
 ### About Me
 -  I speak English, Russian, Kazakh
 -  Current learn Laravel
